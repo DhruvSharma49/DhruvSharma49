@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvsharma49&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvsharma49" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DhruvSharma49&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhruvsharma49&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
