@@ -30,61 +30,39 @@ Always eager to learn new tools and improve my skills to deliver **impactful sol
 
 <div align="center">
 
-## 💻 Skills & Tools
+## 💻 Technical Skills
 
 <table align="center" cellspacing="20">
 <tr>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/><br/>
+HTML
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"/><br/>
+CSS
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55"/><br/>
+React
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55"/><br/>
+Tailwind CSS
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/><br/>
+JavaScript
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60"/>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://avatars.githubusercontent.com/u/25003669?s=200&v=4" width="60"/>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="60"/>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="60"/>
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/color/96/amazon-web-services.png" width="60"/>
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/color/96/git.png" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55"/><br/>
+Node.js
 </td>
 
 </tr>
@@ -92,23 +70,96 @@ Always eager to learn new tools and improve my skills to deliver **impactful sol
 <tr>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/github--v1.png" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="55"/><br/>
+Express.js
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55"/><br/>
+MongoDB
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/console.png" width="60"/>
+<img src="https://img.icons8.com/color/96/api.png" width="55"/><br/>
+REST API
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/postman.png" width="60"/>
+<img src="https://img.icons8.com/color/96/lock--v1.png" width="55"/><br/>
+Authentication
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/npm.png" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="55"/><br/>
+Oracle DB + SQL
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55"/><br/>
+C
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55"/><br/>
+C++
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55"/><br/>
+Java (Basics)
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧰 Other Skills & Tools
+
+<table align="center" cellspacing="20">
+<tr>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/microsoft-office-2019.png" width="55"/><br/>
+Advanced MS Office
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/adobe-photoshop.png" width="55"/><br/>
+Adobe Photoshop
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/adobe-indesign.png" width="55"/><br/>
+Adobe PageMaker
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/coreldraw.png" width="55"/><br/>
+CorelDRAW
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/visual-basic.png" width="55"/><br/>
+Visual Basic
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/drawing.png" width="55"/><br/>
+Drawing
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/accounting.png" width="55"/><br/>
+Tally ERP
 </td>
 
 </tr>
