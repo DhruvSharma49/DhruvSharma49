@@ -27,42 +27,30 @@ Always eager to learn new tools and improve my skills to deliver **impactful sol
 </div>
 
 ---
+
 <div align="center">
 
 ## 💻 Skills & Tools
 
-<!-- GIF Visual -->
-<img 
-  src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGh3ZHJuN2t1N2NtOGR2MXl0ZGx0aWowOXU3MGN6bXk3bnJkcTh4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFEx8jxEwU/source.gif"
-  width="320"
-  style="border-radius:18px; border:3px solid #00ffff; box-shadow:0 0 25px #00ffff; margin-bottom:20px;"
-/>
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; margin-top:25px;">
 
-<!-- Skills -->
-<table>
-<tr>
-<td style="padding:10px;">
-<span style="border:2px solid #00ffff;border-radius:16px;padding:10px 18px;color:#00ffff;font-weight:bold;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="26"/> JS
-</span>
-</td>
-
-<td style="padding:10px;">
-<span style="border:2px solid #00ffff;border-radius:16px;padding:10px 18px;color:#00ffff;font-weight:bold;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="26"/> React
-</span>
-</td>
-
-<td style="padding:10px;">
-<span style="border:2px solid #00ffff;border-radius:16px;padding:10px 18px;color:#00ffff;font-weight:bold;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="26"/> Node
-</span>
-</td>
-</tr>
-</table>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGh3ZHJuN2t1N2NtOGR2MXl0ZGx0aWowOXU3MGN6bXk3bnJkcTh4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFEx8jxEwU/source.gif" width="280" style="border-radius:18px; border:3px solid #00ffff; box-shadow:0 0 30px #00ffff;"/>
+<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="28"/> JS</span>
+<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="28"/> HTML5</span>
+<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="28"/> CSS3</span>
+<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="28"/> React</span>
+<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="28"/> Node.js</span>
+<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="28"/> Express.js</span>
+<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://avatars.githubusercontent.com/u/25003669?s=200&v=4" height="28"/> Appwrite</span>
+<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" height="28"/> Socket.IO</span>
+<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="28"/> MongoDB</span>
+<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="28"/> MySQL</span>
+<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="28"/> Oracle</span>
+<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="28"/> VS Code</span>
+<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://img.icons8.com/color/48/000000/postman.png" height="28"/> Postman</span>
+<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://img.icons8.com/color/48/000000/github--v1.png" height="28"/> Git/GitHub</span>
 
 </div>
-
 
 ---
 
@@ -73,3 +61,4 @@ Always eager to learn new tools and improve my skills to deliver **impactful sol
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="950" height="380" style="border:3px solid #00ffff; border-radius:18px; box-shadow:0 0 35px #00ffff;"/>
 
 </div>
+
