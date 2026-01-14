@@ -1,6 +1,6 @@
 <div align="center" style="background-color:#0a0a0a; padding:30px; border-radius:20px; border:2px solid #00bfff; box-shadow: 0 0 20px #00bfff;">
 
-<!-- Header + About Me TOP -->
+<!-- About Me TOP -->
 <table width="100%" style="margin-bottom:25px;">
 <tr>
 <td width="60%" valign="top">
@@ -8,14 +8,16 @@
 <h1 style="color:#00bfff; font-size:2.2em;">👋 Hi, I'm Dhruv Sharma</h1>
 <h3 style="color:#ffffff; font-size:1.2em;">Full Stack Developer | BCA Student</h3>
 <p style="color:#cccccc; font-size:16px; line-height:1.5;">
-💡 I craft <b>interactive, scalable & modern web apps</b> using <b>React, Node.js, Express, Appwrite & Socket.IO</b>.  
-Passionate about clean, efficient code and always learning new tech.
+💡 I am a motivated and detail-oriented <b>Full Stack Developer</b> and BCA student with hands-on experience building modern web applications.  
+I enjoy creating **clean, efficient, and interactive web apps** using technologies like <b>React, Node.js, Express, Appwrite, Socket.IO, SQL & NoSQL databases</b>.  
+Always eager to learn new tools and improve my skills to deliver impactful solutions.  
+📚 Skilled in modern development tools: VS Code, CLI, Git/GitHub, Postman, Tailwind CSS, HTML & CSS.
 </p>
 
 </td>
 
 <td width="40%" valign="top" align="center">
-<!-- Elegant GIF -->
+<!-- GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius:15px; border:3px solid #00bfff; box-shadow:0 0 20px #00bfff;"/>
 </td>
 </tr>
