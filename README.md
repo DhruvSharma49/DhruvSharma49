@@ -32,23 +32,87 @@ Always eager to learn new tools and improve my skills to deliver **impactful sol
 
 ## 💻 Skills & Tools
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; margin-top:25px;">
+<table align="center" cellspacing="20">
+<tr>
 
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
+</td>
 
-<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="28"/> JS</span>
-<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="28"/> HTML5</span>
-<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="28"/> CSS3</span>
-<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="28"/> React</span>
-<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="28"/> Node.js</span>
-<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="28"/> Express.js</span>
-<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://avatars.githubusercontent.com/u/25003669?s=200&v=4" height="28"/> Appwrite</span>
-<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" height="28"/> Socket.IO</span>
-<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="28"/> MongoDB</span>
-<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="28"/> MySQL</span>
-<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="28"/> Oracle</span>
-<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="28"/> VS Code</span>
-<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://img.icons8.com/color/48/000000/postman.png" height="28"/> Postman</span>
-<span style="border:2px solid #00ffff; border-radius:16px; padding:10px 18px; background:#0a0a0a; color:#00ffff; font-weight:bold;"><img src="https://img.icons8.com/color/48/000000/github--v1.png" height="28"/> Git/GitHub</span>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60"/>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60"/>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://avatars.githubusercontent.com/u/25003669?s=200&v=4" width="60"/>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="60"/>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="60"/>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/amazon-web-services.png" width="60"/>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/git.png" width="60"/>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/github--v1.png" width="60"/>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="60"/>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/console.png" width="60"/>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/postman.png" width="60"/>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/npm.png" width="60"/>
+</td>
+
+</tr>
+</table>
 
 </div>
 
