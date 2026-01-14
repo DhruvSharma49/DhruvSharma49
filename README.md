@@ -161,8 +161,10 @@ CorelDRAW
 
 <tr>
 <td align="center">
-  <img src="https://img.icons8.com/color/96/visual-basic.png" width="55"/><br/>
+ <p>
   Visual Basic
+   
+ </p>
 </td>
 
 
