@@ -164,9 +164,10 @@ CorelDRAW
 
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/drawing.png" width="55"/><br/>
-Drawing
+<img src="https://img.icons8.com/color/96/command-line.png" width="55"/><br/>
+MS-DOS
 </td>
+
 
 <td align="center">
 <img src="https://img.icons8.com/color/96/accounting.png" width="55"/><br/>
