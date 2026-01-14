@@ -17,7 +17,7 @@ Always eager to learn new tools and improve my skills to deliver **impactful sol
 
 </td>
 
-<td width="40%" valign="top" align="middle">
+<td width="40%" valign="middle" align="center">
 <!-- GIF larger -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"  style="display:block;max-width:100%;height:auto;border-radius:18px;"/>
 </td>
