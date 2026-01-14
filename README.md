@@ -1,5 +1,5 @@
 <div align="center" style="background-color:#0a0a0a; padding:50px; border-radius:25px; border:3px solid #00ffff; box-shadow:0 0 35px #00ffff;">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQErTfgmfyCOMA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719349872342?e=2147483647&v=beta&t=xxzVBl0dJFWxcCjPUEss_eImr3D2qnjMZ-BwjmFh1Jo" style="border-radius:18px; border:3px solid #00ffff; box-shadow:0 0 30px #00ffff;"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQErTfgmfyCOMA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719349872342?e=2147483647&v=beta&t=xxzVBl0dJFWxcCjPUEss_eImr3D2qnjMZ-BwjmFh1Jo" style="border-radius:18px; border:3px solid #00ffff; box-shadow:0 0 30px #00ffff; center"/>
 
 <!-- About Me TOP -->
 <table width="100%" style="margin-bottom:35px;">
