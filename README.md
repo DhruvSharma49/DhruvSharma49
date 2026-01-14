@@ -31,51 +31,35 @@ Always eager to learn new tools and improve my skills to deliver **impactful sol
 
 ## 💻 Skills & Tools
 
-<div
-  style="
-    position: relative;
-    width: 100%;
-    padding: 50px 25px;
-    border-radius: 22px;
-    border: 3px solid #00ffff;
-    box-shadow: 0 0 35px #00ffff;
-    background-image: url('https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGh3ZHJuN2t1N2NtOGR2MXl0ZGx0aWowOXU3MGN6bXk3bnJkcTh4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFEx8jxEwU/source.gif');
-    background-size: cover;
-    background-position: center;
-  "
->
+<!-- GIF Visual -->
+<img 
+  src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGh3ZHJuN2t1N2NtOGR2MXl0ZGx0aWowOXU3MGN6bXk3bnJkcTh4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFEx8jxEwU/source.gif"
+  width="320"
+  style="border-radius:18px; border:3px solid #00ffff; box-shadow:0 0 25px #00ffff; margin-bottom:20px;"
+/>
 
-  <!-- Overlay -->
-  <div
-    style="
-      background: rgba(10,10,10,0.75);
-      padding: 30px;
-      border-radius: 18px;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 16px;
-    "
-  >
+<!-- Skills -->
+<table>
+<tr>
+<td style="padding:10px;">
+<span style="border:2px solid #00ffff;border-radius:16px;padding:10px 18px;color:#00ffff;font-weight:bold;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="26"/> JS
+</span>
+</td>
 
-    <span style="border:2px solid #00ffff;border-radius:16px;padding:10px 18px;background:#0a0a0a;color:#00ffff;font-weight:bold;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="28"/> JS
-    </span>
+<td style="padding:10px;">
+<span style="border:2px solid #00ffff;border-radius:16px;padding:10px 18px;color:#00ffff;font-weight:bold;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="26"/> React
+</span>
+</td>
 
-    <span style="border:2px solid #00ffff;border-radius:16px;padding:10px 18px;background:#0a0a0a;color:#00ffff;font-weight:bold;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="28"/> React
-    </span>
-
-    <span style="border:2px solid #00ffff;border-radius:16px;padding:10px 18px;background:#0a0a0a;color:#00ffff;font-weight:bold;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="28"/> Node.js
-    </span>
-
-    <span style="border:2px solid #00ffff;border-radius:16px;padding:10px 18px;background:#0a0a0a;color:#00ffff;font-weight:bold;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="28"/> MongoDB
-    </span>
-
-  </div>
-</div>
+<td style="padding:10px;">
+<span style="border:2px solid #00ffff;border-radius:16px;padding:10px 18px;color:#00ffff;font-weight:bold;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="26"/> Node
+</span>
+</td>
+</tr>
+</table>
 
 </div>
 
