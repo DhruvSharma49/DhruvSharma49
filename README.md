@@ -67,7 +67,7 @@
 </p>
 <p>
   <img align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvsharma49&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=00bfff&text_color=ffffff" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhruvsharma49&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=00bfff&text_color=ffffff" 
     alt="DhruvSharma49" 
   />
 </p>
