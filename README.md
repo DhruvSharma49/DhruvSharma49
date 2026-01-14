@@ -37,12 +37,12 @@ Always eager to learn new tools and improve my skills to deliver **impactful sol
 
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/><br/>
-HTML
+HTML5
 </td>
 
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"/><br/>
-CSS
+CSS5
 </td>
 
 <td align="center">
@@ -57,7 +57,7 @@ Tailwind CSS
 
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/><br/>
-JavaScript
+JavaScript(ES6+)
 </td>
 
 <td align="center">
@@ -121,6 +121,12 @@ Socket.IO
 <img src="https://avatars.githubusercontent.com/u/25003669?s=200&v=4" width="55"/><br/>
 Appwrite
 </td>
+
+<td align="center">
+  <img src="https://img.icons8.com/color/96/npm.png" width="55"/><br/>
+  npm Packages
+</td>
+
 </tr>
 
 
