@@ -114,6 +114,20 @@ Java (Basics)
 </td>
 
 </tr>
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="55"/><br/>
+Socket.IO
+</td>
+
+<td align="center">
+<img src="https://avatars.githubusercontent.com/u/25003669?s=200&v=4" width="55"/><br/>
+Appwrite
+</td>
+
+</tr>
+
 </table>
 
 ---
@@ -148,7 +162,7 @@ CorelDRAW
 <tr>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/visual-basic.png" width="55"/><br/>
+<img src="" width="55"/><br/>
 Visual Basic
 </td>
 
