@@ -94,6 +94,50 @@ Authentication
 Oracle DB + SQL
 </td>
 
+<td align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg" width="55"/><br/>
+Cloudinary
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55"/><br/>
+C
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55"/><br/>
+C++
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55"/><br/>
+Java (Basics)
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="55"/><br/>
+Socket.IO
+</td>
+
+<td align="center">
+<img src="https://avatars.githubusercontent.com/u/25003669?s=200&v=4" width="55"/><br/>
+Appwrite
+</td>
+
+<td align="center">
+<img src="https://seeklogo.com/images/M/multer-logo-9F94F0A0A7-seeklogo.com.png" width="55"/><br/>
+Multer
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/npm.png" width="55"/><br/>
+npm Packages
+</td>
+
 </tr>
 
 <tr>
