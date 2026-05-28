@@ -129,7 +129,7 @@ Appwrite
 </td>
 
 <td align="center">
-<img src="https://seeklogo.com/images/M/multer-logo-9F94F0A0A7-seeklogo.com.png" width="55"/><br/>
+
 Multer
 </td>
 
